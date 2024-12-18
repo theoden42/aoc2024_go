@@ -1,0 +1,1 @@
+Solution in Go for Advent of Code 2024 
