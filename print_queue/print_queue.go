@@ -14,6 +14,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer file.Close()
 	scanner := bufio.NewScanner(file)
 	edges := make(map[[2]string]bool)
 	for scanner.Scan() {
