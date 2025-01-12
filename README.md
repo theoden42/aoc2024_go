@@ -9,4 +9,6 @@ Problems that I found interesting
 - Plutonian Pebbles Day 11 
     Really nice problems first time you encounter an algorithmic challenge and it's not that hard either. 
 - Claw Contraption Day 13
-    Nice system of equations problem also the first part is this time actually an easy version of the hard problem and not a completely different problem altogether 
+    Nice system of equations problem also the first part is this time actually an easy version of the hard problem and not a completely different problem altogether
+- Restroom Redoubt Day 14 
+    The part two of the problem is extremely nice, makes you think a little and can be solved with a lot of clever ideas. 
